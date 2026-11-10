@@ -1,6 +1,6 @@
 # Hi, I'm Damyr
 
-First-year BSc Artificial Intelligence and Computer Science student at the University of Edinburgh.
+First year BSc Artificial Intelligence and Computer Science student at the University of Edinburgh.
 
 I build Python projects to turn theory into working tools. Most of the work here comes from the 100 Days of Code course. Next step: original AI and data projects.
 
